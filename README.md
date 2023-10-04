@@ -32,12 +32,12 @@ python breast_cancer_deep_learning.py
 
 Below are the results for each model:
 
-| Model                          | Test Loss | Test Accuracy | F1 Score | Recall | Precision |
-|--------------------------------|-----------|---------------|----------|--------|-----------|
-| Feedforward Neural Network     | 0.0940    | 0.9649        | 0.9718   | 0.9718 | 0.9718    |
-| Convolutional Neural Network   | 0.1104    | 0.9649        | 0.9722   | 0.9859 | 0.9589    |
-| Long Short-Term Memory (LSTM)  | 0.1181    | 0.9474        | 0.9565   | 0.9296 | 0.9851    |
-| Gated Recurrent Unit (GRU)     | 0.1571    | 0.9298        | 0.9444   | 0.9577 | 0.9315    |
+| Model                               | Test Loss | Test Accuracy | F1 Score | Recall | Precision |
+|-------------------------------------|-----------|---------------|----------|--------|-----------|
+| Feedforward Neural Network (FNN)    | 0.0940    | 0.9649        | 0.9718   | 0.9718 | 0.9718    |
+| Convolutional Neural Network (CNN)  | 0.1104    | 0.9649        | 0.9722   | 0.9859 | 0.9589    |
+| Long Short-Term Memory (LSTM)       | 0.1181    | 0.9474        | 0.9565   | 0.9296 | 0.9851    |
+| Gated Recurrent Unit (GRU)          | 0.1571    | 0.9298        | 0.9444   | 0.9577 | 0.9315    |
 
 ## Visualizations
 
