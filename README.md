@@ -34,10 +34,10 @@ Below are the results for each model:
 
 | Model                          | Test Loss | Test Accuracy | F1 Score | Recall | Precision |
 |--------------------------------|-----------|---------------|----------|--------|-----------|
-| Feedforward Neural Network     | 0.0723    | 0.9649        | 0.9723   | 0.9630 | 0.9818    |
-| Convolutional Neural Network   | 0.0587    | 0.9781        | 0.9828   | 0.9747 | 0.9911    |
-| Long Short-Term Memory (LSTM)  | 0.0696    | 0.9670        | 0.9739   | 0.9648 | 0.9831    |
-| Gated Recurrent Unit (GRU)     | 0.0652    | 0.9725        | 0.9787   | 0.9699 | 0.9879    |
+| Feedforward Neural Network     | 0.0940    | 0.9649        | 0.9718   | 0.9718 | 0.9718    |
+| Convolutional Neural Network   | 0.1104    | 0.9649        | 0.9722   | 0.9859 | 0.9589    |
+| Long Short-Term Memory (LSTM)  | 0.1181    | 0.9474        | 0.9565   | 0.9296 | 0.9851    |
+| Gated Recurrent Unit (GRU)     | 0.1571    | 0.9298        | 0.9444   | 0.9577 | 0.9315    |
 
 ## Visualizations
 
