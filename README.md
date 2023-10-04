@@ -1,4 +1,4 @@
-# Deep Learning Breast Cancer Detection
+# Wisconsin Breast Cancer (Diagnostic) Analysis | Deep Learning
 
 This project utilizes deep learning models to classify breast cancer using the Wisconsin Breast Cancer dataset. Four different types of models are trained and evaluated: Feedforward Neural Network, Convolutional Neural Network, Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU).
 
