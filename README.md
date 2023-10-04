@@ -11,23 +11,6 @@ In this project, we perform the following tasks:
 - Visualization of model performance (confusion matrices, ROC curves, precision-recall curves, and learning curves)
 - Displaying results in a table
 
-## Usage
-
-Follow these steps to run the project:
-
-1. Clone the repository to your local machine.
-2. Install the necessary Python libraries using pip:
-
-```bash
-pip install numpy pandas scikit-learn tensorflow matplotlib seaborn
-```
-
-3. Run the Python script to train and evaluate the models:
-
-```bash
-python breast_cancer_deep_learning.py
-```
-
 ## Results
 
 Below are the results for each model:
