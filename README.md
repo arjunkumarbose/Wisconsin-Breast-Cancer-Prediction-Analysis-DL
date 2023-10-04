@@ -22,15 +22,6 @@ Below are the results for each model:
 | Long Short-Term Memory (LSTM)       | 0.1181    | 0.9474        | 0.9565   | 0.9296 | 0.9851    |
 | Gated Recurrent Unit (GRU)          | 0.1571    | 0.9298        | 0.9444   | 0.9577 | 0.9315    |
 
-## Visualizations
-
-Visualizations of model performance are available in the project folder:
-
-- Confusion matrices
-- ROC curves
-- Precision-recall curves
-- Learning curves
-
 ## Reference
 
 Wolberg,William, Mangasarian,Olvi, Street,Nick, and Street,W.. (1995). Breast Cancer Wisconsin (Diagnostic). UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B.
