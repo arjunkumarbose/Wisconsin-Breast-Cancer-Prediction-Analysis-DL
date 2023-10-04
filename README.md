@@ -7,7 +7,7 @@ This project utilizes deep learning models to classify breast cancer using the W
 In this project, we perform the following tasks:
 
 - Data preprocessing and standardization
-- Training and evaluation of four deep learning models
+- Training and evaluation based on 80 - 20 ratio of four deep learning models
 - Visualization of model performance (confusion matrices, ROC curves, precision-recall curves, and learning curves)
 - Displaying results in a table
 
