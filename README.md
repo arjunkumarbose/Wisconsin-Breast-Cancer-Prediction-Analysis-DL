@@ -1,11 +1,11 @@
 # Wisconsin Breast Cancer (Diagnostic) Analysis | Deep Learning
 
-This code utilizes deep learning models to classify breast cancer using the Wisconsin Breast Cancer dataset. Four different types of models are trained and evaluated: Feedforward Neural Network, Convolutional Neural Network, Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU).
+This code utilizes deep learning models to classify breast cancer using the Wisconsin Breast Cancer dataset. Four different types of models are trained and evaluated: Feedforward Neural Network (FNN), Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU).
 
 ## Overview
 
 - Data preprocessing and standardization
-- Training and evaluation based on 80 - 20 ratio of four deep learning models
+- Training and evaluation based on the 80/20 ratio of four deep learning models
 - Visualization of model performance (confusion matrices, ROC curves, precision-recall curves, and learning curves)
 - Displaying results in a table
 
